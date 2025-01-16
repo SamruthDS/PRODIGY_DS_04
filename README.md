@@ -6,7 +6,7 @@ Analyze and visualize sentiment patterns in social media data to understand publ
 
 ### Files
 - `Task4.R`: R script for sentiment analysis and visualization.
-- `dataset.csv`: Twitter US Airline Sentiment dataset.
+- `Tweets.csv`: Twitter US Airline Sentiment dataset.
 
 ### How to Run
 1. Clone the repository or download it as a ZIP file.
